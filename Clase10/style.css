@@ -1,0 +1,99 @@
+.descuentos {
+width: 1024px;
+height: 38px;
+left: 0px;
+top: 0px;
+background-color: #1CD1B0;
+margin: 0;
+}
+
+h1 {
+width: 1024px;
+height: 101px;
+left: 0px;
+top: 38px;
+background-color: #00669F;
+box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+margin: 0;
+}
+
+.imagenfondo{
+width: 300px;
+height: 193px;
+left: 32px;
+top: 291px;
+border-radius: 16px 16px 0px 0px;
+}
+
+.redonda{
+width: 120px;
+height: 118px;
+left: 122px;
+top: 419px;
+border-radius: 100px;
+z-index: 100;
+}
+
+.nombre{
+width: 267px;
+height: 113px;
+left: 48px;
+top: 602px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #333333;
+text-align: center;
+font-weight: bold;
+}
+
+.rectangulo{
+    width: 300px;
+    height: 336px;
+    left: 32px;
+    top: 483px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.descripcion{
+width: 267px;
+height: 113px;
+left: 48px;
+top: 602px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #333333;
+}
+
+footer{
+width: 337px;
+height: 19px;
+left: 16px;
+top: 988px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #FFF9F9;
+position: absolute;
+width: 1024px;
+height: 51px;
+left: 0px;
+top: 972px;
+background: #00669F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
